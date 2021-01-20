@@ -1,0 +1,45 @@
+{
+  "configurations" : [
+    {
+      "id" : "5BBE6958-1F4B-4C14-AC85-3F611894C304",
+      "name" : "EN",
+      "options" : {
+        "language" : "en"
+      }
+    },
+    {
+      "id" : "4739866C-2480-4454-B960-304E68B26AD4",
+      "name" : "FR",
+      "options" : {
+        "language" : "fr",
+        "region" : "FR"
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "codeCoverage" : false,
+    "targetForVariableExpansion" : {
+      "containerPath" : "container:RunningSG.xcodeproj",
+      "identifier" : "14CEC9C0256BFA9500E9F9EA",
+      "name" : "RunningSG"
+    }
+  },
+  "testTargets" : [
+    {
+      "enabled" : false,
+      "target" : {
+        "containerPath" : "container:RunningSG.xcodeproj",
+        "identifier" : "14CEC9D1256BFA9700E9F9EA",
+        "name" : "RunningSGTests"
+      }
+    },
+    {
+      "target" : {
+        "containerPath" : "container:RunningSG.xcodeproj",
+        "identifier" : "14CEC9DC256BFA9700E9F9EA",
+        "name" : "RunningSGUITests"
+      }
+    }
+  ],
+  "version" : 1
+}

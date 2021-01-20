@@ -1,0 +1,24 @@
+/* 
+  Localizable.strings
+  RunningSG
+
+  Created by Benoit Pasquier on 18/12/20.
+  
+*/
+
+"Singapore" = "Singapour";
+"Add" = "Ajouter";
+"Favorite Routes" = "Mes favoris";
+"Sunrise Routes" = "Au levé de soleil";
+"Last Added Routes" = "Derniers ajouts";
+"Park Routes" = "Parcs";
+"Distance:" = "Distance:";
+"Best time:" = "Meilleur temps:";
+"Pace:" = "Allure:";
+"Last run:" = "Dernière sortie:";
+"Starting distance:" = "Distance du départ:";
+"Starting point:" = "Point de départ:";
+
+// sample
+"Hello iOS Conf SG" = "Bonjour iOS Conf SG 👋";
+"Let's go!" = "C'est parti!";
